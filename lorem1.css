@@ -1,0 +1,25 @@
+
+p.em-destaque:hover {
+		color: gray;
+}
+
+p:hover .lorem {
+	background-color: yellow;
+	color: black;
+
+}
+
+p{
+	font-size: 22px;
+}
+
+div{
+	font-size: 22px;
+}
+
+h1 {
+	padding:5px;
+	border-bottom: 2px solid gray;
+	margin-bottom: 15px;
+	font-size: 50px;
+}
